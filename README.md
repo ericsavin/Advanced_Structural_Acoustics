@@ -1,2 +1,2 @@
-# Advanced_Structural_Acoustics
+# Advanced Structural Acoustics
 Graduate course on advanced structural dynamics and acoustics taught at Université Paris-Saclay
