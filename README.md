@@ -1,4 +1,4 @@
-# Advanced Structural Acoustics
+# Advanced Structural Dynamics and Acoustics
 Graduate course on advanced structural dynamics and acoustics taught at Université Paris-Saclay
 
 * Lecture #1: primer on random vibrations & energetics of the single-dof oscillator
