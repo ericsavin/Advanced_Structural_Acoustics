@@ -1,5 +1,8 @@
 # Advanced Structural Dynamics and Acoustics
+
 Graduate course on advanced structural dynamics and acoustics taught at Université Paris-Saclay ([master MS2SC](https://www.universite-paris-saclay.fr/formation/master/mecanique/m2-modelisation-et-simulation-en-mecanique-des-structures-et-systemes-couples)).
+
+## SYLLABUS
 
 * Lecture #1: primer on random vibrations & energetics of the single-dof oscillator
 * Lecture #2: fundamental coupled problems
@@ -11,3 +14,7 @@ Graduate course on advanced structural dynamics and acoustics taught at Universi
 * Lecture #8: SEA formulation, hypotheses, shortcomings, parameters. Industrial applications
 * Lecture #9: tutorial class #3
 * Lecture #10: external Neumann problem for the Helmholtz equation
+
+## LECTURE NOTES
+
+`ms2sc.pdf`
