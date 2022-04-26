@@ -1,5 +1,5 @@
 # Advanced Structural Dynamics and Acoustics
-Graduate course on advanced structural dynamics and acoustics taught at [Université Paris-Saclay, master MS$2$SC](https://www.universite-paris-saclay.fr/formation/master/mecanique/m2-modelisation-et-simulation-en-mecanique-des-structures-et-systemes-couples)
+Graduate course on advanced structural dynamics and acoustics taught at Université Paris-Saclay ([master MS2SC](https://www.universite-paris-saclay.fr/formation/master/mecanique/m2-modelisation-et-simulation-en-mecanique-des-structures-et-systemes-couples)).
 
 * Lecture #1: primer on random vibrations & energetics of the single-dof oscillator
 * Lecture #2: fundamental coupled problems
